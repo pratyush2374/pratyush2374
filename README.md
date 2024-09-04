@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Currently working on youtube clone<br>📖Learning Next js<br>👨‍💻Fullstack web applications<br>🌐Web Development <br>
+🔭Currently working on Youtube Clone as a project<br>📖Learning Next js<br>👨‍💻Fullstack web applications<br>🌐Web Development <br>
 
 
 ## 🌐 Socials:
