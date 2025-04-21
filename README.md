@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Hey there! I'm Pratyush Sharma 👋<br>💻 Javascript Full-Stack Developer | 🚀 Building Scalable Web Apps<br>⚡ Skilled in JavaScript, TypeScript, React, Next.js, Node.js, Express.js<br>🗄️ Databases: PostgreSQL, MongoDB, MySQL, Redis<br>📡 Exploring GraphQL and Apache Kafka<br>🎯 Love creating high-performance apps with a focus on UX and scalability
+🚀 Hey there! I'm Pratyush Sharma 👋<br>💻 Javascript Full-Stack Developer | 🚀 Building Scalable Web Apps<br>⚡ Skilled in JavaScript, TypeScript, React, Next.js, Node.js, Express.js<br>🗄️ Databases: PostgreSQL, MongoDB, MySQL, Redis<br>📡 Exploring RAG applications and LLM Finetuning<br>🎯 Love creating high-performance apps with a focus on UX and scalability
 
 
 ## 🌐 Socials:
